@@ -1,4 +1,4 @@
-# analysis_of_LLM
+# LLM_Analysis
 **This is the page for introducing undergraduate research paper of Kim SeongHo, Mun JiHyun, Oh JunTaek**
 
 Members : Kim SeongHo, Mun JiHyun, Oh JunTaek
