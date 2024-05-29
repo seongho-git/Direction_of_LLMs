@@ -17,4 +17,5 @@ Updates : 2024.04.12
 Leave your questions to **seongho-kim@yonsei.ac.kr**. I'll reply in a week.
 
 ## Reference Repositories
-[Analysis of Llama](https://github.com/seongho-git/lab_llama2)
+Analysis of LLMs with TensorRT-LLM : [Lab-TensorRT-LLM](https://github.com/seongho-git/Lab-TensorRT-LLM.git)
+Analysis of Llama : [lab_llama2](https://github.com/seongho-git/lab_llama2)
